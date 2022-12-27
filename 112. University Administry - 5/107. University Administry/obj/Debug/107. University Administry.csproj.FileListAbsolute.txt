@@ -1,0 +1,50 @@
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\bin\Debug\_107.University_Administry.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\bin\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\bin\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\obj\Debug\107. University Administry.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\obj\Debug\_107.University_Administry.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\obj\Debug\_107.University_Administry.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\obj\Debug\107. University Administry.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\obj\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\obj\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\107. University Administry\107. University Administry\obj\Debug\_107.University_Administry.Ogrenci.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\bin\Debug\_107.University_Administry.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\obj\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\obj\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\bin\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\bin\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\obj\Debug\107. University Administry.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\obj\Debug\_107.University_Administry.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\obj\Debug\_107.University_Administry.Ogrenci.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\obj\Debug\_107.University_Administry.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\108. University Administry - 2\107. University Administry\obj\Debug\107. University Administry.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\bin\Debug\_107.University_Administry.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\obj\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\obj\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\bin\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\bin\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\obj\Debug\107. University Administry.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\obj\Debug\_107.University_Administry.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\obj\Debug\_107.University_Administry.Ogrenci.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\obj\Debug\_107.University_Administry.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\109. University Administry - 3\107. University Administry\obj\Debug\107. University Administry.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\bin\Debug\_107.University_Administry.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\obj\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\obj\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\bin\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\bin\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\obj\Debug\107. University Administry.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\obj\Debug\_107.University_Administry.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\obj\Debug\_107.University_Administry.Ogrenci.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\obj\Debug\_107.University_Administry.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\110. University Administry - 4\107. University Administry\obj\Debug\107. University Administry.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\bin\Debug\_107.University_Administry.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\obj\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\obj\Debug\_107.University_Administry.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\obj\Debug\107. University Administry.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\obj\Debug\_107.University_Administry.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\obj\Debug\_107.University_Administry.Ogrenci.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\obj\Debug\_107.University_Administry.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\obj\Debug\107. University Administry.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\bin\Debug\_107.University_Administry.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\112. University Administry - 5\107. University Administry\bin\Debug\_107.University_Administry.pdb
